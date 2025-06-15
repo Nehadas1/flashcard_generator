@@ -1,0 +1,15 @@
+Machine Learning is a subfield of Artificial Intelligence (AI) that enables systems to learn and improve from experience without being explicitly programmed. It allows computers to make predictions or decisions based on data.
+
+There are three primary types of Machine Learning:
+
+1. Supervised Learning – Uses labeled datasets. Algorithms learn to predict output from input data. Examples: Linear Regression, Decision Trees.
+2. Unsupervised Learning – Uses unlabeled data to find hidden patterns. Examples: K-means Clustering, PCA.
+3. Reinforcement Learning – An agent learns by interacting with the environment and receiving rewards or penalties. Example: Q-learning.
+
+Common applications of Machine Learning include spam filtering, recommendation systems, fraud detection, and autonomous vehicles.
+
+Overfitting is a common challenge where a model performs well on training data but poorly on new data. Underfitting happens when a model is too simple to capture the underlying patterns.
+
+Popular ML libraries include Scikit-learn, TensorFlow, and PyTorch. Data preprocessing, model evaluation, and feature selection are key steps in any ML project.
+
+Ethical concerns in Machine Learning include bias in training data, privacy concerns, and explainability of model decisions.
